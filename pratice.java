@@ -21,7 +21,9 @@ public class FindFirstNonRepetingChar {
 				}
 				if(val)
 				{
+					
 					System.out.println(value.charAt(i) + " is the non repeating charactor");
+					System.out.Println("The given input is String type only");
 					break;
 				}
 			}
